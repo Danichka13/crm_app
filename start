@@ -10,12 +10,26 @@
     <p>This is a simple web app hosted on GitHub Pages.</p>
 
     <!-- Кнопки для навигации -->
-    <a href="about.html">
-        <button>About Us</button>
+    <a href="my_tasks.html">
+        <button>Мои задачи</button>
     </a>
-    <a href="contact.html">
-        <button>Contact Us</button>
+    <a href="calendar.html">
+        <button>Календарь</button>
     </a>
+    <a href="structure.html">
+        <button>Структура штаба</button>
+    </a>
+    <a href="docs.html">
+        <button>Docs</button>
+    </a>
+    <a href="calls.html">
+        <button>Конференции</button>
+    </a>
+    <a href="department.html">
+        <button>Мой департамент</button>
+    </a>
+    <a href="general.html">
+        <button>Общее</button>
 
     <script src="script.js"></script>
 </body>
